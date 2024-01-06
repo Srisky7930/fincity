@@ -1,0 +1,49 @@
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about-card {
+  height: 500px;
+  width: 380px;
+  font-family: Playfair Display;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 80px;
+}
+
+.description {
+  color: #828282;
+  margin-top: 20px;
+  //styleName: body/24px;
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.image {
+  height: 500px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  gap: 12px;
+  margin-left: 20px;
+  padding: 8px, 24px, 8px, 24px;
+  border-radius: 8px;
+  background: #fdc435;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.linkedin {
+  background-color: transparent;
+}

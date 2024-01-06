@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  align-items: ]center;
+  justify-content: space-between;
+}
+.nav-header {
+  background-color: transparent;
+  padding: 20px;
+  border: 1px solid #d4cece;
+}
+
+.nav-menu {
+  display: flex;
+}
+
+.title {
+  font-family: Comfortaa;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.nav-link {
+  font-family: Raleway;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  margin-left: 10px;
+}
